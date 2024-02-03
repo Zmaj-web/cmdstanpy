@@ -1,0 +1,7 @@
+ipykernel
+# japanize-matplotlib
+jupyterlab
+matplotlib
+numpy
+pandas
+seaborn
